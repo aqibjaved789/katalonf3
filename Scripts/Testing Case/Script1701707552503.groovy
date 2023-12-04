@@ -31,3 +31,13 @@ WebUI.delay(0)
 
 WebUI.maximizeWindow()
 
+WebUI.openBrowser('')
+
+WebUI.dismissAlert()
+
+WebUI.closeBrowser()
+
+WebUI.getPageHeight()
+
+WebUI.getPageWidth()
+

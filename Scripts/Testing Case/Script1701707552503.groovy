@@ -27,3 +27,7 @@ WebUI.click(findTestObject('Object Repository/Orange HRM/Page_30-Day Advanced Fr
 
 WebUI.click(findTestObject('Object Repository/Orange HRM/Page_Get in Touch with OrangeHRM Sales  OrangeHRM/button_Book a Free Demo'))
 
+WebUI.delay(0)
+
+WebUI.maximizeWindow()
+

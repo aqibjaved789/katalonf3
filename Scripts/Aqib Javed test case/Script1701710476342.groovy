@@ -23,6 +23,8 @@ WebUI.navigateToUrl('https://patientportal.myindici.co.nz/login')
 
 WebUI.setText(findTestObject('Object Repository/INDICI/Page_myIndici/inputmUserName'), 'sthpat007@yopmail.com')
 
+WebUI.maximizeWindow()
+
 WebUI.setEncryptedText(findTestObject('Object Repository/INDICI/Page_myIndici/inputmPassword'), 'cvW8qx4B2o1gIDzvWT+0mQ==')
 
 WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/button_Login'))

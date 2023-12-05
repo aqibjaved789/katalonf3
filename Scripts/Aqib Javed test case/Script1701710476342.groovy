@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/span_Vitals')
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/circle'))
+WebUI.mouseOver(findTestObject('Object Repository/INDICI/Page_myIndici/circle'))
 
 WebUI.delay(5)
 

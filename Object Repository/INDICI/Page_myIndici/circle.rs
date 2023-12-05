@@ -8,7 +8,6 @@
       <entry>
          <key>CSS</key>
          <value>.row .col-md-6:nth-child(1) .grid.full-width svg circle:nth-child(1)&#xd;
-&#xd;
 </value>
       </entry>
       <entry>
@@ -24,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>circle</value>
-      <webElementGuid>1aa3496a-41da-43d4-ab83-a78f5980f404</webElementGuid>
+      <webElementGuid>85bf03e4-1be3-41fa-8956-30f7bc596426</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,7 +31,7 @@
       <name>cx</name>
       <type>Main</type>
       <value>183</value>
-      <webElementGuid>f6458149-c76c-4199-b285-fade77734075</webElementGuid>
+      <webElementGuid>dd3b45ba-83c1-4233-aded-0f84e6c244e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +39,7 @@
       <name>cy</name>
       <type>Main</type>
       <value>129.10000000000002</value>
-      <webElementGuid>8c3d26dd-ae7a-4100-a57f-efe8cae90cb8</webElementGuid>
+      <webElementGuid>4bafc6bd-4f1b-4a9a-91e7-02c3c09195eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +47,7 @@
       <name>r</name>
       <type>Main</type>
       <value>3.5</value>
-      <webElementGuid>e29a0611-384b-4155-8f80-31f93d08ff54</webElementGuid>
+      <webElementGuid>2fb4c66f-e1cd-4c1e-9eaf-8ea0eaf4a878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +55,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>38ca64c8-e58c-4e01-93f7-6cc37a499329</webElementGuid>
+      <webElementGuid>3439d217-e49b-4a64-9803-6779d900c281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +63,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>040d8561-efae-4438-81ef-29a8cd5da786</webElementGuid>
+      <webElementGuid>c2784a19-5b6b-496a-9778-999fbae1b28c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +71,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>#3366cc</value>
-      <webElementGuid>dd072822-7282-4f12-a688-746a1c6e6507</webElementGuid>
+      <webElementGuid>75ce761a-bd3d-47d7-abfb-ee94c9249ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,6 +79,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;reactgooglegraph-2&quot;)/div[1]/div[1]/div[1]/svg[1]/g[2]/g[2]/g[1]/circle[4]</value>
-      <webElementGuid>89d0b7d1-c711-473c-abe9-7ffc92f83347</webElementGuid>
+      <webElementGuid>93ecac14-7696-4e33-a01c-4fa491458dd6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

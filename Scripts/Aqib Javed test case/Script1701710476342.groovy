@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://patientportal.myindici.co.nz/login')
+
+WebUI.setText(findTestObject('Object Repository/INDICI/Page_myIndici/inputmUserName'), 'sthpat007@yopmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/INDICI/Page_myIndici/inputmPassword'), 'cvW8qx4B2o1gIDzvWT+0mQ==')
+
+WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/p_Test NORTH'))
+
+WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/span_Vitals'))
+
+WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/circle'))
+

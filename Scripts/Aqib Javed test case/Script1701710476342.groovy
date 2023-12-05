@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/span_Vitals')
 
 WebUI.click(findTestObject('Object Repository/INDICI/Page_myIndici/circle'))
 
+WebUI.delay(0)
+
